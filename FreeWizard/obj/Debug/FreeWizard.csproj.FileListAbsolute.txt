@@ -1,0 +1,5 @@
+D:\Code\VS2008\FreeNetUI\FreeWizard\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS2008\FreeNetUI\FreeWizard\bin\Debug\FreeWizard.dll
+D:\Code\VS2008\FreeNetUI\FreeWizard\bin\Debug\FreeWizard.pdb
+D:\Code\VS2008\FreeNetUI\FreeWizard\obj\Debug\FreeWizard.dll
+D:\Code\VS2008\FreeNetUI\FreeWizard\obj\Debug\FreeWizard.pdb

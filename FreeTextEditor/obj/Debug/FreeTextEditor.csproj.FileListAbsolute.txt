@@ -1,0 +1,10 @@
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\bin\Debug\FreeTextEditor.dll
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\bin\Debug\FreeTextEditor.pdb
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\obj\Debug\FreeTextEditor.csproj.ResolveComReference.cache
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\obj\Debug\FreeTextEditor.FreeTextEditor.resources
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\obj\Debug\FreeTextEditor.LinkDlg.resources
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\obj\Debug\FreeTextEditor.Properties.Resources.resources
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\obj\Debug\FreeTextEditor.csproj.GenerateResource.Cache
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\obj\Debug\FreeTextEditor.dll
+D:\Code\VS2008\FreeNetUI\FreeTextEditor\obj\Debug\FreeTextEditor.pdb

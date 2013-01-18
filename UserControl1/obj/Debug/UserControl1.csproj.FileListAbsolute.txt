@@ -1,0 +1,7 @@
+D:\Code\VS2008\FreeNetUI\UserControl1\bin\Debug\UserControl1.dll
+D:\Code\VS2008\FreeNetUI\UserControl1\bin\Debug\UserControl1.pdb
+D:\Code\VS2008\FreeNetUI\UserControl1\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS2008\FreeNetUI\UserControl1\obj\Debug\UserControl1.UserControl1.resources
+D:\Code\VS2008\FreeNetUI\UserControl1\obj\Debug\UserControl1.csproj.GenerateResource.Cache
+D:\Code\VS2008\FreeNetUI\UserControl1\obj\Debug\UserControl1.dll
+D:\Code\VS2008\FreeNetUI\UserControl1\obj\Debug\UserControl1.pdb

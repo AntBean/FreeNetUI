@@ -1,0 +1,5 @@
+D:\Code\VS2008\FreeNetUI\FreePanel\bin\Debug\FreePanel.dll
+D:\Code\VS2008\FreeNetUI\FreePanel\bin\Debug\FreePanel.pdb
+D:\Code\VS2008\FreeNetUI\FreePanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS2008\FreeNetUI\FreePanel\obj\Debug\FreePanel.dll
+D:\Code\VS2008\FreeNetUI\FreePanel\obj\Debug\FreePanel.pdb

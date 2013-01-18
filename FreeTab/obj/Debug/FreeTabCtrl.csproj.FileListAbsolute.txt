@@ -1,0 +1,12 @@
+D:\Code\VS2008\FreeNetUI\FreeTab\bin\Debug\FreeTab.dll
+D:\Code\VS2008\FreeNetUI\FreeTab\bin\Debug\FreeTab.pdb
+D:\Code\VS2008\FreeNetUI\FreeTab\bin\Debug\FreePanel.dll
+D:\Code\VS2008\FreeNetUI\FreeTab\bin\Debug\MSButton.dll
+D:\Code\VS2008\FreeNetUI\FreeTab\bin\Debug\FreePanel.pdb
+D:\Code\VS2008\FreeNetUI\FreeTab\bin\Debug\MSButton.pdb
+D:\Code\VS2008\FreeNetUI\FreeTab\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS2008\FreeNetUI\FreeTab\obj\Debug\FreeTabCtrl.FreeTabCtrl.resources
+D:\Code\VS2008\FreeNetUI\FreeTab\obj\Debug\FreeTab.Properties.Resources.resources
+D:\Code\VS2008\FreeNetUI\FreeTab\obj\Debug\FreeTabCtrl.csproj.GenerateResource.Cache
+D:\Code\VS2008\FreeNetUI\FreeTab\obj\Debug\FreeTab.dll
+D:\Code\VS2008\FreeNetUI\FreeTab\obj\Debug\FreeTab.pdb

@@ -1,0 +1,8 @@
+D:\Code\VS2008\FreeNetUI\FreeTest1\bin\Debug\FreeTest1.exe
+D:\Code\VS2008\FreeNetUI\FreeTest1\bin\Debug\FreeTest1.pdb
+D:\Code\VS2008\FreeNetUI\FreeTest1\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VS2008\FreeNetUI\FreeTest1\obj\Debug\FreeTest1.Form1.resources
+D:\Code\VS2008\FreeNetUI\FreeTest1\obj\Debug\FreeTest1.Properties.Resources.resources
+D:\Code\VS2008\FreeNetUI\FreeTest1\obj\Debug\FreeTest1.csproj.GenerateResource.Cache
+D:\Code\VS2008\FreeNetUI\FreeTest1\obj\Debug\FreeTest1.exe
+D:\Code\VS2008\FreeNetUI\FreeTest1\obj\Debug\FreeTest1.pdb
